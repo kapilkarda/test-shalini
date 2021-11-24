@@ -1,0 +1,30 @@
+.container{
+    font-family: Arial;
+    margin: 0;
+    /* position: relative; */
+  }
+  
+  /* Header/Logo Title */
+  .heading {
+    margin-top: -20px;
+    margin-bottom: -10px;  
+    padding: 30px 0 30px 0 ;
+    text-align: center;
+    background: #1abc9c;
+    color: white;
+    font-size: 35px;
+  }
+  
+  /* Page Content */
+  .left {
+    margin: 20px 5px 0 10px;
+  
+    float: left;
+    width: 48%;
+
+  }
+  .right {
+    margin: 10px 10px 0 5px;
+    float: right;
+    width: 49%;
+  }
